@@ -1,0 +1,15 @@
+C:\Programs\C#Programs\WorkingWithNumbers\bin\Debug\net7.0\NumbersInCSharp.exe
+C:\Programs\C#Programs\WorkingWithNumbers\bin\Debug\net7.0\NumbersInCSharp.deps.json
+C:\Programs\C#Programs\WorkingWithNumbers\bin\Debug\net7.0\NumbersInCSharp.runtimeconfig.json
+C:\Programs\C#Programs\WorkingWithNumbers\bin\Debug\net7.0\NumbersInCSharp.dll
+C:\Programs\C#Programs\WorkingWithNumbers\bin\Debug\net7.0\NumbersInCSharp.pdb
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.csproj.AssemblyReference.cache
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.dll
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\refint\NumbersInCSharp.dll
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.pdb
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Programs\C#Programs\WorkingWithNumbers\obj\Debug\net7.0\ref\NumbersInCSharp.dll
